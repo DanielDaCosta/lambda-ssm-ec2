@@ -1,5 +1,5 @@
 # lambda-ssm-ec2
-Lambda that executes Shell Script inside EC2 using AWS Systems Manager Run Command.
+Lambda that executes Shell Script inside EC2 using [AWS Systems Manager Run Command](https://docs.aws.amazon.com/systems-manager/latest/userguide/execute-remote-commands.html).
 
 # Diagram
 ![Architecture](Architecture.png)
